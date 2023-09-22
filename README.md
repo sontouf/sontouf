@@ -1,4 +1,4 @@
-### Hi there 👋
+### Umm... 👋
 
 <!--
 **sontouf/sontouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42-ffffff?style=for-the-badge&logo=appveyor&logoColor=black"/>
+
+<a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42seoul-000000?style=plastic&logo=42&logoColor=white"/>
+<a href="https://brand.unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=white"/>
+<a href="https://www.unrealengine.com/en-US/" target="_blank"><img src="https://img.shields.io/badge/Unreal Engine-000000?style=plastic&logo=Unreal Engine&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-000000?style=plastic&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-000000?style=plastic&logo=cplusplus&logoColor=white"/>
+
+
+![sontouf's GitHub stats](https://github-readme-stats.vercel.app/api?username=sontouf&show_icons=true&theme=radical)
